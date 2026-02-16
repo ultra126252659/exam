@@ -114,6 +114,7 @@ class CartScreen extends StatelessWidget {
                         child: Row(
                           children: [
                             Container(
+
                               width: 80,
                               height: 80,
                               padding: const EdgeInsets.all(8),
